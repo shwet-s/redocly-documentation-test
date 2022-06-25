@@ -1,0 +1,12 @@
+type: reference-docs
+definitionId: payroll-dk
+label: Payroll Denmark
+settings:
+  pagination: section
+  jsonSampleExpandLevel: 'all'
+  generateCodeSamples:
+    languages:
+      - lang: C#
+      - lang: JavaScript
+      - lang: curl
+      - lang: Java
