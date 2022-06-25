@@ -1,6 +1,7 @@
 type: reference-docs
 definitionId: petstore
 settings:
+  pagination: section
   generateCodeSamples:
     languages:
       - lang: curl
