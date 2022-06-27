@@ -14,14 +14,14 @@ training:
     pages:
       - page: openapi/payroll-dk.page.yaml
 
-  - group: Petstore reference with tags
-    expanded: false
-    pages:
-      - label: User Tag
-        page: openapi/reference.page.yaml#tag/user
-      - label: Pet Tag
-        page: openapi/reference.page.yaml#tag/pet
-  - group: Petstore reference without tags
-    expanded: false
-    pages:
-      - page: openapi/reference.page.yaml
+  # - group: Petstore reference with tags
+  #   expanded: false
+  #   pages:
+  #     - label: User Tag
+  #       page: openapi/reference.page.yaml#tag/user
+  #     - label: Pet Tag
+  #       page: openapi/reference.page.yaml#tag/pet
+  # - group: Petstore reference without tags
+  #   expanded: false
+  #   pages:
+  #     - page: openapi/reference.page.yaml
