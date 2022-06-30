@@ -1,14 +1,14 @@
 training:
   - page: developer-portal/index.md
-  - group: Payroll with tags
-    expanded: false
-    pages:
-      - group: Denmark
-        pages:
-          - label: Absence
-            page: openapi/payroll-dk.page.yaml#tag/Absence
-          - label: Absence types
-            page: openapi/payroll-dk.page.yaml#tag/CompanyAbsenceType
+  # - group: Payroll with tags
+  #   expanded: false
+  #   pages:
+  #     - group: Denmark
+  #       pages:
+  #         - label: Absence
+  #           page: openapi/payroll-dk.page.yaml#tag/Absence
+  #         - label: Absence types
+  #           page: openapi/payroll-dk.page.yaml#tag/CompanyAbsenceType
   - group: Payroll without tags
     expanded: false
     pages:
